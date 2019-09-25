@@ -16,6 +16,6 @@ Iris-virginica : 3
 Through OCTAVE/MATLAB, execute the iris.m file.
 
 
-# Following ML alsorithms have been used currently :
+# Following ML algorithms have been used currently :
 
 1. Logistic regression : 3 classifiers, each corresponding to the 3 classes mentioned above are trained. Every test sample is then assigned the label of the classifier which gives the highest prediction value for that test sample.

@@ -1,7 +1,7 @@
 # IrisFlowerClassification
 Classifying Iris Data Set through ML
 
-#This project aims at classifying the famous Iris Data set through various machine learning algorithms.
+#This project aims at classifying the famous Iris Data Set through various machine learning algorithms.
 
 # Data set source : http://archive.ics.uci.edu/ml/datasets/Iris
 
